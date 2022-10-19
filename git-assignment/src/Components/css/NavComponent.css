@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    }
+
+    .navbar ul{
+    list-style-type: none;
+    background-color: yellow;
+    overflow:hidden;
+    border:5px solid green;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    }
+
+    .navbar li{
+        padding:6px 10px;
+       
+    }
+    
+    .navbar li a{
+        text-decoration: none; 
+        font-size:25px;
+        color: black;
+    }
+    .navbar li a:hover{
+        background-color: rgb(170, 242, 242);
+    }
