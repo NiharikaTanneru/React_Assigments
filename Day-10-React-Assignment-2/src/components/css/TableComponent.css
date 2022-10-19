@@ -1,0 +1,25 @@
+.Table-name{
+    border:2px solid black;
+    width:500px;
+    height: 200px;
+    margin: auto;
+}
+
+tr,
+th,
+td{
+    border:2px solid black;
+}
+
+th{
+    background-color: aqua;
+}
+
+td{
+    background-color: pink;
+}
+
+h3{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
