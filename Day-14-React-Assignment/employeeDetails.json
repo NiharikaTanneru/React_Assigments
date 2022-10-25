@@ -1,0 +1,28 @@
+{
+    "employeeDetails": [
+      {
+        "name": "suman",
+        "email": "iuy@gmail.com",
+        "dept": "Accounts",
+        "desg": "HR",
+        "sal": 32000,
+        "id": 3
+      },
+      {
+        "name": "Jennifer",
+        "email": "hbd2gmail.com",
+        "dept": "Accounts",
+        "desg": "HR",
+        "sal": 40000,
+        "id": 5
+      },
+      {
+        "name": "Niharika",
+        "email": "niharika@gmail.com",
+        "desg": "Manager",
+        "dept": "HR",
+        "sal": "55000",
+        "id": 6
+      }
+    ]
+  }
